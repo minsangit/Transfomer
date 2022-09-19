@@ -1,4 +1,4 @@
-## Transfomer Model 구현
+# Transfomer Model 구현
 
 ## Dataset
 네이버 영화 리뷰 데이터셋
